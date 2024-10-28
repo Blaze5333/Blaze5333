@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Mustafa Chaiwala
 
-<!--
-**Blaze5333/Blaze5333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> React Native Developer | Blockchain Enthusiast | Startup Founder
 
-Here are some ideas to get you started:
+I'm a passionate mobile app developer with 2 years of experience building robust and scalable applications. Currently exploring the Solana ecosystem and diving deep into blockchain development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Up To
+
+- 🎯 Building [SynapsisUI](https://www.synapsisui.com) - A collection of premium React Native components
+- 🌱 Learning Solana blockchain development
+- 💼 Open to job opportunities in Solana development
+- 🔭 Working on expanding my blockchain portfolio
+
+## 💻 Tech Stack
+
+```text
+Mobile Development    │  Web Development     │  Blockchain
+───────────────────  │  ──────────────────  │  ───────────
+▣ React Native       │  ▣ React.js          │  ▣ Solana
+▣ JavaScript         │  ▣ Next.js           │  ▣ Rust
+                     │  ▣ HTML/CSS          │  ▣ Anchor
+                     │  ▣ Node.js           │  
+
+Database             │  Tools & Others
+───────────────────  │  ──────────────────
+▣ MongoDB           │  ▣ Git
+                    │  ▣ RESTful APIs
+```
+
+## 🎯 Professional Experience
+
+- **Startup Experience**: Built a complete mobile application from scratch, handling the entire development lifecycle
+- **Entrepreneurship**: Founded SynapsisUI, providing high-quality React Native components to developers
+- **Mobile Development**: 2 years of hands-on experience in React Native development
+
+## 🌟 Key Projects
+
+### SynapsisUI
+- Founded and maintaining a platform for premium mobile UI components
+- Building a community of mobile developers
+- Creating reusable, efficient, and beautiful React Native components
+- Visit [synapsisui.com](https://www.synapsisui.com)
+
+## 🤝 Let's Connect
+
+- Looking for Solana development opportunities
+- Open to collaborate on blockchain projects
+- Interested in mobile app development partnerships
+
+## 📫 How to Reach Me
+
+[Add your preferred contact methods here]
+
+---
+
+⭐️ From [Mustafa Chaiwala](https://github.com/YourGitHubUsername)
