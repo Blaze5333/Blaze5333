@@ -80,4 +80,4 @@ const techStack = {
 
 ---
 
-⭐️ From [Mustafa Chaiwala](https://github.com/YourGitHubUsername)
+⭐️ From [Mustafa Chaiwala](https://github.com/Blaze5333)
