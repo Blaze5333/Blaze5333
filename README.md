@@ -13,18 +13,42 @@ I'm a passionate mobile app developer with 2 years of experience building robust
 
 ## 💻 Tech Stack
 
-```text
-Mobile Development    │  Web Development     │  Blockchain
-───────────────────  │  ──────────────────  │  ───────────
-▣ React Native       │  ▣ React.js          │  ▣ Solana
-▣ JavaScript         │  ▣ Next.js           │  ▣ Rust
-                     │  ▣ HTML/CSS          │  ▣ Anchor
-                     │  ▣ Node.js           │  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
-Database             │  Tools & Others
-───────────────────  │  ──────────────────
-▣ MongoDB           │  ▣ Git
-                    │  ▣ RESTful APIs
+### Development Categories
+```javascript
+const techStack = {
+    mobiledev: {
+        framework: "React Native",
+        language: "JavaScript",
+        expertise: "☆☆☆☆☆"
+    },
+    blockchain: {
+        platforms: ["Solana"],
+        languages: ["Rust"],
+        framework: "Anchor",
+        status: "Learning & Growing 🌱"
+    },
+    frontend: {
+        frameworks: ["React.js", "Next.js"],
+        styling: ["CSS3", "Tailwind"],
+        markup: "HTML5"
+    },
+    backend: {
+        runtime: "Node.js",
+        database: "MongoDB",
+        api: "REST"
+    }
+};
 ```
 
 ## 🎯 Professional Experience
